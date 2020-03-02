@@ -9,8 +9,8 @@ const imageName = document.querySelector('.imageName')
 console.log(imageName.innerHTML)
 
 const imgs = [
-  'https://res.cloudinary.com/archipicture/image/upload/v1582322511/cafc-russey/cafc-russey-07.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1582322511/cafc-russey/cafc-russey-08.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1583108855/ca-valdahon/cafc-Valdhon-02.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1583108855/ca-valdahon/cafc-Valdhon-02.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1582322511/cafc-russey/cafc-russey-09.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1582320231/cafc-russey/cafc-russey-04.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1582320234/cafc-russey/cafc-russey-03.jpg',
