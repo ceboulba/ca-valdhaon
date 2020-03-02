@@ -17,7 +17,7 @@ const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1583108853/ca-valdahon/cafc-Valdhon-02_View04.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1583108856/ca-valdahon/cafc-Valdhon-02_View05.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1583112552/ca-valdahon/cafc-Valdhon-02_View06.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1583108854/ca-valdahon/cafc-Valdhon-02_View07.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1583135890/ca-valdahon/cafc-Valdhon-02_View07.jpg',
 ]
 const imgName= [
   'Axo 1',
