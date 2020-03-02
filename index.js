@@ -11,20 +11,18 @@ console.log(imageName.innerHTML)
 const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1583108855/ca-valdahon/cafc-Valdhon-02.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1583108855/ca-valdahon/cafc-Valdhon-02.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1582322511/cafc-russey/cafc-russey-09.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1582320231/cafc-russey/cafc-russey-04.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1582320234/cafc-russey/cafc-russey-03.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1582323566/cafc-russey/cafc-russey-02.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1582306650/cafc-russey/cafc-russey-05.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1582303656/cafc-russey/cafc-russey-06.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1582382642/cafc-russey/cafc-russey-open.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1582386387/cafc-russey/cafc-russey-close.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1582395197/cafc-russey/cafc-russey-tisanerie.jpg'
+  'https://res.cloudinary.com/archipicture/image/upload/v1583108855/ca-valdahon/cafc-Valdhon-02.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1583108852/ca-valdahon/cafc-Valdhon-02_View01.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1583108854/ca-valdahon/cafc-Valdhon-02_View02.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1583108857/ca-valdahon/cafc-Valdhon-02_View03.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1583108853/ca-valdahon/cafc-Valdhon-02_View04.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1583108856/ca-valdahon/cafc-Valdhon-02_View05.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1583108853/ca-valdahon/cafc-Valdhon-02_View06.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1583108854/ca-valdahon/cafc-Valdhon-02_View07.jpg',
 ]
 const imgName= [
   'Axo 1',
   'Axo 2',
-  'Axo 3',
   'Espace libre service bancaire',
   'Espace carré 1',
   'Espace carré 2',
@@ -32,7 +30,6 @@ const imgName= [
   'Espace collaborateurs 2',
   'Porte collaborateurs / Agence ouverte',
   'Porte collaborateurs / Agence fermée',
-  'Tisanerie'
 ]
 
 let num = 0
@@ -77,7 +74,7 @@ var createScene = function () {
 const scene = createScene()
 
 const check = () => {
-  num <= 2 || num === 8 || num === 9 ?( () => {
+  num <= 1 ?( () => {
     canvas.classList.add('hide');
     imgBox.classList.remove('hide');
     viewType.classList.add('hide')
@@ -89,8 +86,8 @@ const check = () => {
     })()
   // scene.render()
   num <= 2 ? imgView.src = imgs[num] : null
-  num === 8 ? imgView.src = imgs[8] : null
-  num === 9 ? imgView.src = imgs[9] : null
+  //num === 8 ? imgView.src = imgs[8] : null
+  //num === 9 ? imgView.src = imgs[9] : null
 }
 
 check()
