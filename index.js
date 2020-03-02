@@ -11,7 +11,7 @@ console.log(imageName.innerHTML)
 const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1583108855/ca-valdahon/cafc-Valdhon-02.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1583108855/ca-valdahon/cafc-Valdhon-02.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1583108852/ca-valdahon/cafc-Valdhon-02_View01.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1583143762/ca-valdahon/cafc-Valdhon-02_View01.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1583108854/ca-valdahon/cafc-Valdhon-02_View02.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1583108857/ca-valdahon/cafc-Valdhon-02_View03.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1583108853/ca-valdahon/cafc-Valdhon-02_View04.jpg',
