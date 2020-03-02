@@ -14,7 +14,7 @@ const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1583143762/ca-valdahon/cafc-Valdhon-02_View01.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1583150895/ca-valdahon/cafc-Valdhon-02_View02.jpg',
   //'https://res.cloudinary.com/archipicture/image/upload/v1583108857/ca-valdahon/cafc-Valdhon-02_View03.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1583108853/ca-valdahon/cafc-Valdhon-02_View04.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1583156911/ca-valdahon/cafc-Valdhon-02_View04.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1583155635/ca-valdahon/cafc-Valdhon-02_View05.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1583137581/ca-valdahon/cafc-Valdhon-02_View06.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1583135890/ca-valdahon/cafc-Valdhon-02_View07.jpg',
