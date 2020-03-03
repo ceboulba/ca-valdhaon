@@ -24,11 +24,11 @@ const imgName= [
   'Axo 2',
   'Axo 3',
   'Espace libre service bancaire',
-  'Espace carré 1',
-  'Espace collaborateurs 1',
+  'Espace attente / carré',
+  'Espace collaborateurs R.D.C',
   'vue',
   'vue',
-  'Espace collaborateurs 2',
+  'Espace collaborateurs étage',
 ]
 
 let num = 0
