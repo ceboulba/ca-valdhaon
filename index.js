@@ -20,9 +20,9 @@ const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1583256616/ca-valdahon/cafc-Valdhon-02_View07.jpg',
 ]
 const imgName= [
-  'Axo 1',
-  'Axo 2',
-  'Axo 3',
+  'Axo R.D.C 1',
+  'Axo R.D.C 2',
+  'Axo étage',
   'Espace libre service bancaire',
   'Espace attente / carré',
   'Espace collaborateurs R.D.C',
