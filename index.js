@@ -9,9 +9,9 @@ const imageName = document.querySelector('.imageName')
 console.log(imageName.innerHTML)
 
 const imgs = [
-  'https://res.cloudinary.com/archipicture/image/upload/v1583258999/ca-valdahon/valdahon-axo-01.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1583108855/ca-valdahon/cafc-Valdhon-02.jpg',
-  'https://res.cloudinary.com/archipicture/image/upload/v1583108855/ca-valdahon/cafc-Valdhon-02.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1583261742/ca-valdahon/valdahon-axo-01.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1583261711/ca-valdahon/valdahon-axo-02.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1583261712/ca-valdahon/valdahon-axo-03.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1583256612/ca-valdahon/cafc-Valdhon-02_View01.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1583257239/ca-valdahon/cafc-Valdhon-02_View02.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1583257643/ca-valdahon/cafc-Valdhon-02_View04.jpg',
