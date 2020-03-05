@@ -26,8 +26,8 @@ const imgName= [
   'Espace libre service bancaire',
   'Espace attente / carré',
   'Espace collaborateurs R.D.C',
-  'vue',
-  'vue',
+  'Attente étage',
+  'Circulation étage',
   'Espace collaborateurs étage',
 ]
 
