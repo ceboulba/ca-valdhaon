@@ -18,6 +18,7 @@ const imgs = [
   'https://res.cloudinary.com/archipicture/image/upload/v1583256617/ca-valdahon/cafc-Valdhon-02_View05.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1583257068/ca-valdahon/cafc-Valdhon-02_View06.jpg',
   'https://res.cloudinary.com/archipicture/image/upload/v1583263143/ca-valdahon/cafc-Valdhon-02_View07.jpg',
+  'https://res.cloudinary.com/archipicture/image/upload/v1589552174/ca-valdahon/salon-reception.jpg'
 ]
 const imgName= [
   'Axo R.D.C 1',
@@ -29,6 +30,7 @@ const imgName= [
   'Attente étage',
   'Circulation étage',
   'Espace collaborateurs étage',
+  'Salon de réception',
 ]
 
 let num = 0
